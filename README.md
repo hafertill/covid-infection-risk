@@ -23,6 +23,7 @@ Output for use in Datawrapper:
 
 ## Output
 
+Datawrapper charts: 
 - [15 sq.m., no mask](https://datawrapper.dwcdn.net/zb1lT/1/)
 - [15 sq.m., with mask](https://datawrapper.dwcdn.net/9BCXq/1/)
 - [30 sq.m., no mask](https://datawrapper.dwcdn.net/joSzx/1/)
