@@ -33,5 +33,4 @@ Output for use in Datawrapper:
 
 ## Source
 
-COVID 19 Aerosol Transmission Risk Calculator by Max-Planck-Institute for CHemistry, Mainz, Germany:
-[Link](https://www.mpic.de/4747361/risk-calculator)
+[COVID 19 Aerosol Transmission Risk Calculator by Max-Planck-Institute for CHemistry, Mainz, Germany](https://www.mpic.de/4747361/risk-calculator)
