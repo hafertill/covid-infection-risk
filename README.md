@@ -17,7 +17,7 @@ copied by hand from MPIC-calculator
 
 Script to manipulate base file for use in Datawrapper
 
-### dw_ *<room size>* _ *<mask yes/no>* .csv
+### dw_*room size*_*mask yes/no*.csv
 
 Output for use in Datawrapper:
 
